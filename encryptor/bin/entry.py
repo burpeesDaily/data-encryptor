@@ -1,7 +1,7 @@
 """Description about this module."""
 import sys
 
-from my_package import my_module
+from encryptor import my_module
 
 
 def main() -> None:
